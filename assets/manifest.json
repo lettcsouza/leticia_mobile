@@ -1,6 +1,7 @@
 {
+  "lang": "en",
   "background_color": "#ffffff",
-  "description": "site visualização daft punk. \n\t\tfeito para a disciplina de mobile. autora: leticia correia.",
+  "description": "site visualização daft punk. feito para a disciplina de mobile. autora: leticia correia.",
   "dir": "ltr",
   "display": "standalone",
   "name": "Daft Punk Official",
@@ -12,10 +13,15 @@
   "categories": [],
   "screenshots": [],
   "icons": [{
-    "src": "assets/AppIcons/playstore.png",
+    "src": "playstore.png",
     "sizes": "512x512",
     "type": "image/png",
     "purpose": "any"
 }],
+"display_override": [
+  "window-control-overlay",
+  "standalone",
+  "browser"
+],
   "shortcuts": []
 }
