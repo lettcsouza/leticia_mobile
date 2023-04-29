@@ -8,6 +8,7 @@
   "orientation": "any",
   "short_name": "daftpunkoffc",
   "start_url": "/",
+  "scope": "/",
   "theme_color": "#ffffff",
   "categories": [],
   "screenshots": [],
@@ -24,7 +25,7 @@
 ],
   "shortcuts": [],
   "serviceWorker": {
-    "src": "pwabuilder-sw.js",
-    "scope": "/"
+    "src": "/assets/pwabuilder-sw.js",
+    "scope":"/"
   }
 }
