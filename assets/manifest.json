@@ -16,12 +16,12 @@
     "src": "assets/AppIcons/playstore.png",
     "sizes": "512x512",
     "type": "image/png",
-    "purpose": "any maskable"},
+    "purpose": "any"},
   {
     "src": "assets/AppIcons/android/mipmap-xxxhdpi/dafticon",
     "sizes": "192x192",
     "type": "image/png",
-    "purpose": "any maskable"
+    "purpose": "any"
   }],
 "display_override": [
   "window-control-overlay",
