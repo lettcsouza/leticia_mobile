@@ -6,7 +6,6 @@
   "display": "standalone",
   "name": "Daft Punk Official",
   "orientation": "any",
-  "scope": "/",
   "short_name": "daftpunkoffc",
   "start_url": "/",
   "theme_color": "#ffffff",
@@ -23,5 +22,9 @@
   "standalone",
   "browser"
 ],
-  "shortcuts": []
+  "shortcuts": [],
+  "serviceWorker": {
+    "src": "pwabuilder-sw.js",
+    "scope": "/"
+  }
 }
