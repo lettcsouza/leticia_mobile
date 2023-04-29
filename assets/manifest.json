@@ -1,0 +1,30 @@
+{
+  "background_color": "#ffffff",
+  "description": "site visualização daft punk. \n\t\tfeito para a disciplina de mobile. autora: leticia correia.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Daft Punk Official",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "daftpunkoffc",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [{
+    "src": "dafticon.png",
+    "type": "image/png",
+    "sizes": "48x48"
+  },
+  {
+    "src": "dafticon.png",
+    "type": "image/png",
+    "sizes": "96x96"
+  },
+  {
+    "src": "dafticon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "shortcuts": []
+}
