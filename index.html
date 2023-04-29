@@ -20,6 +20,13 @@
 	</head>
 	<body class="is-preload">
 
+		<script>
+			if (typeof navigator.serviceWorker !== 'undefined') {
+			  navigator.serviceWorker.register('sw.js')
+			}
+		  </script>
+		  
+
 		<!-- Header -->
 			<header id="header">
 				<h1>Daft Punk Official</h1>
