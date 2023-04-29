@@ -6,26 +6,24 @@
   "display": "standalone",
   "name": "Daft Punk Official",
   "orientation": "any",
+  "scope": "/",
   "short_name": "Daft Punk Official",
   "start_url": "/",
-  "scope": "/",
   "theme_color": "#ffffff",
   "categories": [],
   "screenshots": [],
   "icons": [{
-    "src": "playstore.png",
-    "sizes": "512x512",
-    "type": "image/png",
-    "purpose": "any"}
-  ],
-"display_override": [
-  "window-control-overlay",
-  "standalone",
-  "browser"
-],
+    "src":"playstore.png",
+    "type":"image/png",
+    "sizes":"512X512",
+    "purpose": "any"
+  }],
+  
   "shortcuts": [],
-  "serviceWorker": {
-    "src": "/assets/pwabuilder-sw.js",
-    "scope":"/"
-  }
+  "display_override": [
+    "window-control-overlay",
+    "standalone",
+    "browser"
+  ]
+  
 }
