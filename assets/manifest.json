@@ -12,19 +12,10 @@
   "categories": [],
   "screenshots": [],
   "icons": [{
-    "src": "dafticon.png",
+    "src": "assets/AppIcons/playstore.png",
+    "sizes": "512x512",
     "type": "image/png",
-    "sizes": "48x48"
-  },
-  {
-    "src": "dafticon.png",
-    "type": "image/png",
-    "sizes": "96x96"
-  },
-  {
-    "src": "dafticon.png",
-    "type": "image/png",
-    "sizes": "192x192"
-  }],
+    "purpose": "any"
+}],
   "shortcuts": []
 }
