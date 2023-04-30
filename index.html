@@ -140,7 +140,7 @@
 			<script>
 
 				if ('serviceWorker' in navigator) {
-				  navigator.serviceWorker.register('assets/pwabuilder-sw.js').then(function(registration) {
+				  navigator.serviceWorker.register('/assets/pwabuilder-sw.js').then(function(registration) {
 					console.log('Service worker registrado com sucesso:', registration);
 				  }).catch(function(error) {
 					console.log('Erro ao registrar service worker:', error);
