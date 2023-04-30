@@ -14,17 +14,23 @@
   "screenshots": [],
   "icons": [
     {
-        "src": "/assets/AppIcons/playstore.png",
+        "src": "https://master--daftpunkoffc.netlify.app/assets/AppIcons/playstore.png",
         "sizes": "512x512",
         "type": "image/png",
         "purpose": "maskable"
     },
     {
-        "src": "/assets/AppIcons/android/mipmap-xxxhdpi/dafticon",
+        "src": "https://master--daftpunkoffc.netlify.app/assets/AppIcons/android/mipmap-xxxhdpi/dafticon",
         "sizes": "192x192",
         "type": "image/png",
         "purpose": "maskable"
-    }
+    },
+    {
+      "src": "https://master--daftpunkoffc.netlify.app/assets/AppIcons/android/mipmap-xxhdpi/dafticon",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+  }
   ],
   
   "shortcuts": [],
