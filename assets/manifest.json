@@ -12,12 +12,20 @@
   "theme_color": "#ffffff",
   "categories": [],
   "screenshots": [],
-  "icons": [{
-    "src":"assets/AppIcons/playstore.png",
-    "type":"image/png",
-    "sizes":"512X512",
-    "purpose": "any"
-  }],
+  "icons": [
+    {
+        "src": "/assets/AppIcons/playstore.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+    },
+    {
+        "src": "/assets/AppIcons/android/mipmap-xxxhdpi/dafticon",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "maskable"
+    }
+  ],
   
   "shortcuts": [],
   "display_override": [
@@ -25,5 +33,4 @@
     "standalone",
     "browser"
   ]
-  
 }
