@@ -7,7 +7,7 @@
 <html lang="en">
 	<head>
 		<title>Daft Punk Official</title>
-		<link rel="manifest" href="manifest.json">
+		<link rel="manifest" href="assets/manifest.json">
 		<meta charset="utf-8" />
 		<meta name="description" content ="site visualização daft punk. 
 		feito para a disciplina de mobile. autora: leticia correia."/>
@@ -140,7 +140,7 @@
 			<script>
 
 				if ('serviceWorker' in navigator) {
-				  navigator.serviceWorker.register('/pwabuilder-sw.js').then(function(registration) {
+				  navigator.serviceWorker.register('assets/pwabuilder-sw.js').then(function(registration) {
 					console.log('Service worker registrado com sucesso:', registration);
 				  }).catch(function(error) {
 					console.log('Erro ao registrar service worker:', error);
