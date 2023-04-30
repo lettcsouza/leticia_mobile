@@ -13,7 +13,7 @@
   "categories": [],
   "screenshots": [],
   "icons": [{
-    "src":"playstore.png",
+    "src":"assets/AppIcons/playstore.png",
     "type":"image/png",
     "sizes":"512X512",
     "purpose": "any"
