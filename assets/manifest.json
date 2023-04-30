@@ -6,7 +6,7 @@
   "display": "standalone",
   "name": "Daft Punk Official",
   "orientation": "any",
-  "scope": "/",
+  "scope": "https://master--daftpunkoffc.netlify.app/",
   "short_name": "Daft Punk Official",
   "start_url": "/",
   "theme_color": "#ffffff",
